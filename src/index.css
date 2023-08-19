@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sidebar_button{
+    position: absolute;
+    top: 0;
+    margin-top: 10px;
+}
+/* .d-flex{
+    display: flex;
+} */
